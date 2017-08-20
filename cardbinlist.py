@@ -1,6 +1,5 @@
 #!/usr/bin/python
 from bs4 import BeautifulSoup
-from IPython.display import Image
 import urllib
 import csv
 import os.path
